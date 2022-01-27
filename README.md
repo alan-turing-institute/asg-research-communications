@@ -13,3 +13,14 @@ This is where we will track the process of collaboratively authoring the three c
 | Z: Environment and Sustainability (E&S) | [Overleaf](https://www.overleaf.com/project/61f2d6b6c167340d227a0908) | [alan-turing-institute/asg-white-paper-z](https://github.com/alan-turing-institute/asg-white-paper-z) | #asg-white-paper-z |
 
 If you do not have access to any of the above resources and you think you should, please contact [Achintya Rao](https://github.com/RaoOfPhysics) either by e-mail 📧 [&lt;[arao@turing.ac.uk](mailto:arao@turing.ac.uk)&gt;] or on the Turing Slack 🕊.
+
+# Communication Channels
+
+We will use four channels for communication:
+
+1. **Slack**: general day-to-day communications
+1. **E-mail**: periodic updates by ASG Community Manager [[Achintya Rao](https://github.com/RaoOfPhysics)]
+1. **GitHub repos/projects**: Project coördination, tasks, milestones
+   - Repos linked above, under [#Resources](#Resources)
+   - [Project board](https://github.com/orgs/alan-turing-institute/projects/10/)
+1. **Overleaf**: Authoring platform (links above, under [#Resources](#Resources))
