@@ -20,9 +20,9 @@ We will use four channels for communication:
 
 1. **Slack**: general day-to-day communications
    - Main channel: [#asg-white-papers](https://alan-turing-institute.slack.com/messages/asg-white-papers)
-   - Individual channels linked above, under [#Resources](#Resources)
+   - Individual channels linked above, under [&sect;&nbsp;Resources](#Resources)
 1. **E-mail**: periodic updates by ASG Community Manager [[Achintya Rao](https://github.com/RaoOfPhysics)]
 1. **GitHub repos/projects**: Project coördination, tasks, milestones
-   - Repos linked above, under [#Resources](#Resources)
+   - Repos linked above, under [&sect;&nbsp;Resources](#Resources)
    - [Project board](https://github.com/orgs/alan-turing-institute/projects/10/)
-1. **Overleaf**: Authoring platform (links above, under [#Resources](#Resources))
+1. **Overleaf**: Authoring platform (links above, under [&sect;&nbsp;Resources](#Resources))
