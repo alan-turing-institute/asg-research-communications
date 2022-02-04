@@ -41,11 +41,11 @@ Welcome to the community repository for the [AI for Science and Government  (ASG
 
 Engage ASG researchers to showcase their work, collaborate across the programme and exchange knowledge through a *Community of Practice*.
 
-Our goal is to produce series of communication outputs, including formal reports as well as impact stories, highlighting:
+Our goal is to produce a series of communication outputs, including formal reports as well as impact stories, highlighting:
  
 - the research contribution of the ASG programme,
 - the unique role ASG plays in cultivating diverse endeavours and
-- the influence of the Turing’s network-convening capability ASG's work.
+- the influence of Turing’s network-convening capability ASG's work.
 
 ## Background and Motivation
 
@@ -94,12 +94,12 @@ We will use four channels for communication:
    - Access: The Turing members have access by default. External contributors should contact Achintya to be added by invitation.
 1. **Overleaf**:
     - About: We have selected Overleaf as the authoring platform for co-developing the white papers as it is approved by the Turing data protection and the Legal team.
-    - Access: All contributors will be added to the team account. Please contact Achintya if you are a contributor and have no received access.
+    - Access: All contributors will be added to the team account. Please contact Achintya if you are a contributor and have not received access.
 
 📫 Contact
 ----------
 
-This project is maintained by the ASG Community Manager, Achintya Rao. For any organisation related queries or concerns, you can directly reach out to her by emailing [arao@turing.ac.uk](arao:msharan@turing.ac.uk).
+This project is maintained by the ASG Community Manager, Achintya Rao. For any organisation related queries or concerns, you can directly reach out to her by emailing [arao@turing.ac.uk](mailto:arao@turing.ac.uk).
 
 ♻️ License
 ----------
