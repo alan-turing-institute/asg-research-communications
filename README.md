@@ -1,10 +1,12 @@
+# ASG Community
+
+Welcome to the community repository for the [AI for Science and Government](https://www.turing.ac.uk/research/asg) [ASG] integrated research programme at [The Alan Turing Institute](https://www.turing.ac.uk/)! 🎉
+
+Among other things, this is where we will track the process of collaboratively authoring the three community-led white papers from ASG.
+
 # ASG White Papers
 
-🎉 Welcome to our repo!
-
-This is where we will track the process of collaboratively authoring the three community-led white papers from the [AI for Science and Government](https://www.turing.ac.uk/research/asg) [ASG] research programme.
-
-# Resources
+## Resources
 
 | White Paper                             | Document                                                              | Repo                                                                                                  | Slack Channel                                                                            |
 |:----------------------------------------|:----------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
@@ -14,7 +16,7 @@ This is where we will track the process of collaboratively authoring the three c
 
 If you do not have access to any of the above resources and you think you should, please contact [Achintya Rao](https://github.com/RaoOfPhysics) either by e-mail 📧 [&lt;[arao@turing.ac.uk](mailto:arao@turing.ac.uk)&gt;] or on the Turing Slack 🕊.
 
-# Communication Channels
+## Communication Channels
 
 We will use four channels for communication:
 
@@ -30,15 +32,15 @@ We will use four channels for communication:
    - 🚧 Access is by invitation
 1. **E-mail**: periodic updates by ASG Community Manager [[Achintya Rao](https://github.com/RaoOfPhysics)]
 
-## GitHub repos and projects
+### GitHub repos and projects
 
 [Coming soon…]
 
-### Contributing
+#### Contributing to the White Papers
 
 [Coming soon…]
 
-## Overleaf
+### Overleaf
 
 A few pointers:
 
@@ -55,3 +57,4 @@ A few pointers:
 - Overleaf offers commenting and change-tracking (latter is not active by default).
   Highlighting any text in the source file gives you an option to add a comment.
 - Every time you save the file, it recompiles the PDF.
+
