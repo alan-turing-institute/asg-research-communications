@@ -36,7 +36,7 @@ In this project, we are producing a series of influential communication outputs,
 These address key issues for policy-makers and other stakeholders on the future of AI in science and government.
 The documents are being co-created by all members of the ASG community and shared openly for further development and reuse.
 
-One of the primary outcomes will be a portfolio of three community-written white papers, which will offer an opportunity for ASG as a programme to reflect on:
+One of the primary outcomes will be a portfolio of [three community-written white papers](documentation/asg-white-papers/white-papers-meta.md), which will offer an opportunity for ASG as a programme to reflect on:
 
 - learnings using evidence from ASG research,
 - key challenges that have emerged,
@@ -73,12 +73,13 @@ These resources will pull together the different strands of ASG research and be 
 
 The ASG programme is under the leadership of:
 
-- **Professor Jonathan Rowe**, AI for Science and Government Programme Chair, Programme Director for Data Science for Science, and Turing Fellow and
-- **Professor Ben MacArthur**, Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences, and Turing Fellow
+- [**Professor Jonathan Rowe**](https://www.turing.ac.uk/people/researchers/jonathan-rowe), AI for Science and Government Programme Chair, Programme Director for Data Science for Science, and Turing Fellow and
+- [**Professor Ben MacArthur**](https://www.turing.ac.uk/people/researchers/ben-macarthur), Director of AI for Science and Government, Deputy Programme Director for Health and Medical Sciences, and Turing Fellow
 
--  Partners and projects
-    - **The Tools, Practices and Systems (TPS)** programme at the Turing represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all, and to empower a global, decentralised network of people who connect data with domain experts.
-    - **_The Turing Way_** is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The project goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
+Partners and projects:
+
+- [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at the Turing represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all, and to empower a global, decentralised network of people who connect data with domain experts.
+- [**_The Turing Way_**](https://the-turing-way.netlify.app/) is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The project goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
 
 # Contact
 
