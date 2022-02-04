@@ -1,0 +1,31 @@
+# Contributors Roles for the White papers
+
+We have proposed to use an extension of the [CRediT – Contributor Roles Taxonomy](https://casrai.org/credit/), which is a high-level taxonomy, including many roles ASG community members can take throughout the course of their participation in the co-creation of the ASG white papers as well as related communication outputs.
+These roles will help us give fair credit and recognition for each contributor’s specific contribution to the communication output.
+
+| Term | Definition | Who can take these roles? |
+| --- | --- | --- |
+| Design | Template, technical recommendation | Project team (at the funding stage) |
+| Conceptualization | Ideas; formulation or evolution of overarching research goals and aims | Ben + Theme leads, Core team, CM |
+| Methodology | Development or design of methodology; creation of models | Core teams + REG support |
+| Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components | Core team + REG |
+| Validation | Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs - generalisable | Reviewers + community members, RAMs |
+| Investigation | Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection | CM + community members |
+| Resources | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools | Everyone: core team, CM, community, RAMs |
+| Data Curation | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse (including licensing) | Core team + CM + REG  |
+| Writing - Original Draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation) | Core team + CM |
+| Writing - Review & Editing | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages | Community  members (incl. reviewers) + comms team |
+| Visualization | Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation | Core team + Opportunities for community members + RAMs + REG; Illustrations from Scriberia |
+| Supervision | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team | Core team, CM, ASG leadership team |
+| Project administration | Management and coordination responsibility for the research activity planning and execution | PM, RPM, CM |
+| Funding acquisition | Acquisition of the financial support for the project leading to this publication | -NA- |
+| Community Engagement | Connecting with members, enabling collaboration, identifying resources etc | CM |
+| Transparent Communication | Making all communication transparent for the stakeholders | Everyone + CM |
+| Accessibility | Accessibility of resources, consideration of disability | REG + CM + EDI team/committee |
+| Cross-exchange| Worshops, skill building | Community |
+| EDI and Ethics | Embedding EDI principles in research | Ethics committee, EDI committee, community members |
+| Public engagement | Communications beyond Turing | CM + community members + communications team + RAMs |
+| Engagement with policy-makers / funders | Pre-publication (review) but also post-publication, reaching out actively | At UK level |
+| Recognition and credit | Assessing incentives, creating fair value system, fair recognition of all contributord | CM and leadership |
+
+_CRediT - Contributor Roles Taxonomy: https://casrai.org/credit. Reproduced from Brand et al. (2015), Learned Publishing 28(2)._
