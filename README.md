@@ -84,7 +84,7 @@ Partners and projects:
 # Contact
 
 This repository is maintained by the ASG Community Manager, [Achintya Rao](https://github.com/RaoOfPhysics).
-For any organisation-related queries or concerns, you can directly reach out to him at [arao@turing.ac.uk](arao:msharan@turing.ac.uk).
+For any organisation-related queries or concerns, you can directly reach out to him at [arao@turing.ac.uk](mailto:arao@turing.ac.uk).
 
 # Licence
 
