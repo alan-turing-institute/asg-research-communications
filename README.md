@@ -30,6 +30,10 @@ In addition to these themes, ASG researchers are also working on three large cro
 - [Ecosystems of Digital Twins](https://www.turing.ac.uk/research/research-projects/ecosystems-digital-twins): combining methodology from Engineering and Urban Analytics to develop integrated systems of digital twins
 - [Environment and Sustainability](https://www.turing.ac.uk/research/research-projects/environment-and-sustainability): linking heterogeneous environmental data and models to help assess the widespread impact of climate change, from arctic sea ice loss to food security
 
+### ASG overview
+
+![An overview of the ASG programme, including the various themes and their respective leads, as of March 2022](images/2022-03_ASG_overview.png)
+
 # Outputs and products
 
 In this project, we are producing a series of influential communication outputs, including community reports.
