@@ -5,7 +5,7 @@
 This is the content-only template used for authoring the ASG white papers, also [available on Overleaf](https://www.overleaf.com/read/qkcnfvhwhygv).
 Although compiled into a PDF via `LaTeX`, the individual chapters are themselves plain-text Markdown files.
 
-![A screenshot of the template in use on Overleaf](../images/ASG-White-Paper_template.png)
+![A screenshot of the template in use on Overleaf](../../../images/ASG-White-Paper_template.png)
 
 ## Use
 
