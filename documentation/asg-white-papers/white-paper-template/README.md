@@ -7,6 +7,26 @@ Although compiled into a PDF via `LaTeX`, the individual chapters are themselves
 
 ![A screenshot of the template in use on Overleaf](../../../images/ASG-White-Paper_template.png)
 
+Note that Overleaf is used only to author the content, not to produce the final outputs (which will be PDF/print and HTML).
+Once the content is frozen, following writing and reviewing, it will be used to generate the desired outputs.
+
+## Files and content
+
+The only `.tex` file in the template is `main.tex`, which includes all of the `LaTeX` packages needed to generate the PDF for (p)review.
+It also defines the order of the chapters, as follows:
+
+```latex
+\markdownInput{summary.md}
+\markdownInput{introduction.md}
+\markdownInput{challenges.md}
+\markdownInput{asg-contributions.md}
+\markdownInput{recommendations.md}
+\markdownInput{conclusions.md}
+\markdownInput{acknowledgements.md}
+```
+ 
+
+
 ## Use
 
 To use this template on Overleaf, please copy all the files contained in this directory to your Overleaf project, replacing the default `main.tex` file with the one provided inn this directory.
@@ -27,6 +47,16 @@ This makes for cleaner `diff`s of your source files:
 - A new sentence is on a new line.
 + New sentences are on new lines.
 ```
+
+### Adding images
+
+…
+
+### Adding references
+
+…
+
+[Zotero]
 
 ## Contribution
 
