@@ -6,7 +6,7 @@ Welcome to the community and collaboration repository for the [AI for Science an
 
 ## Vision
 
-_Demonstrate, showcase and amplify the real-world impact of ASG research._
+“_Demonstrate, showcase and amplify the real-world impact of ASG research._”
 
 ## Mission
 
@@ -18,6 +18,13 @@ Our goal is to produce series of communication outputs, including formal reports
 - the unique role ASG plays in cultivating diverse endeavours and
 - the influence of the Turing’s network-convening capability ASG's work.
 
+Specifically, the outputs will address these questions:
+
+1. What was the ASG research contribution?
+1. Why was ASG uniquely placed to do this?
+1. How did Turing network convening capability add to the work?
+1. What was the real-world impact of the research?
+ 
 ## Background
 
 AI for Science and Government (ASG) at The Alan Turing Institute is a major integrated research programme with a goal to deploy AI and data science in priority areas to support the UK economy. 
