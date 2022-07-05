@@ -85,6 +85,11 @@ Partners and projects:
 - [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at the Turing represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts. The ASG Community Manager is funded by the ASG and sits in the Open Research and Community Building Team hosted under the TPS programme. 
 - [**_The Turing Way_**](https://the-turing-way.netlify.app/) is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The project goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end. Best practices from *The Turing Way* will be integrated into the development of communications outputs, as well as recommendations from this project will be shared more widely via *The Turing Way* as chapters.
 
+All the Turing Institute's policies and Code of Conduct apply to the activities in this project carried out by the Turing researchers and employees. For both internal and external contributors, we recommend familiarising yourself with the following policies and guidelines from the Turing Institute that we apply to this project:
+
+- [Equality, Diversity and Inclusion framework](https://www.turing.ac.uk/about-us/equality-diversity-and-inclusion/EDI-framework)
+- [Events code of conduct](https://www.turing.ac.uk/events/policies-and-guidelines)
+
 # Contact
 
 This repository is maintained by the ASG Community Manager, [Achintya Rao](https://github.com/RaoOfPhysics).
