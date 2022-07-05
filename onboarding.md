@@ -52,7 +52,7 @@ If you do not have access to any of the above resources and you think you should
 All contributors to this project will be listed as an author and acknowledged fairly for their contributions. 
 We are using an extension of the [CRediT – Contributor Roles Taxonomy](https://casrai.org/credit/), which is a high-level taxonomy, including many roles ASG community members can take throughout their participation in the co-creation of the ASG white papers as well as related communication outputs. 
 
-Please read the [contributor roles](documentation/asg-white-papers/contributor-roles.md) to understand the scope of authorship beyond writing and reviewing.
+Please read the [contributor roles](documentation/contributor-roles.md) to understand the scope of authorship beyond writing and reviewing.
 For any suggestion, concern or clarification, please create an issue on this repository or reach out to the project team.
 
 ## Structure of White Papers
@@ -85,7 +85,7 @@ All contributions will be managed by the Community Manager who will coordinate t
   Highlighting any text in the source file gives you an option to add a comment.
 - Every time you save the file, it recompiles the PDF.
 
-Please [see the template documents for details](https://github.com/alan-turing-institute/asg-community/tree/main/documentation/asg-white-papers/white-paper-template).
+Please [see the template documents for details](documentation/white-paper-template).
 Contact [Achintya Rao](https://github.com/RaoOfPhysics) if you need help with formatting.
 
 ### Reading recommendations
