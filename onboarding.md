@@ -2,8 +2,9 @@
 
 The vision of this project is to _Demonstrate, showcase and amplify the real-world impact of ASG research._
 
-All ASG researchers are invited to collaborate, exchange knowledge and showcase their work through their involvement in the ASG community and contributions to the development of a series of white papers as well as supporting communication outputs about their projects.
-Here we provide a step-by-step checklist of information and resources all contributors to the white papers should be aware of.
+ASG researchers will collaborate, exchange knowledge and showcase their work through their involvement in the ASG community and white paper project.
+The goal is to collaboratively develop a series of white papers as well as supporting communication outputs highlighting ASG research.
+In this document, we provide list of information and resources available for all contributors to the ASG white papers.
 
 ## Get in touch with the project team
 
