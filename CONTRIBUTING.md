@@ -32,7 +32,7 @@ Reply under any issue by using the comment feature.
 🎉 I have read the onboarding document and familiarised myself with the project. I am ready to contribute! 🛠
 ---
 
-- Take on roles of writer, editor, and reviewer or suggest other kinds of contributions to this project.
+- Take on roles of writer, editor, and reviewer or other kinds of contributions to this project as described in the [ASG White Paper: Contributor Roles](./asg-white-papers/contributor-roles.md).
 - Discuss your contribution plans with Achintya Rao, Community Manager (email: arao@turing.ac.uk) or connect with Malvika Sharan, TPS Senior Researcher overseeing the community and communications aspects of this project (email: msharan@turing.ac.uk). They will make sure you have access to different resources required to participate in this project (as described in the onboarding document).
 - Raise mistakes, errors or missing information on this repository by opening a [Pull Request](https://github.com/fedenanni/HDS-DiscussionGroup/pulls)
   - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
