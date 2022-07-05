@@ -26,16 +26,6 @@ We will use four channels for communication regarding the white papers:
    - 🚧 Access is by invitation
 1. **E-mail**: periodic updates by ASG Community Manager [[Achintya Rao](https://github.com/RaoOfPhysics)]
 
-### GitHub repo and project
-
-[Coming soon…]
-
-#### Contributing to the White Papers
-
-- See [Contributor Roles](contributor-roles.md)
-
-[More coming soon…]
-
 ### Overleaf
 
 A few pointers:
