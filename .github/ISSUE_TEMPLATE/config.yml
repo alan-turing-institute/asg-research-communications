@@ -1,0 +1,7 @@
+contact_links:
+  - name: "\u2615 ASG webpage"
+    url: https://www.turing.ac.uk/research/asg
+    about: AI for science and government (ASG) is a major integrated research programme with a goal to deploy AI and data science in priority areas to support the UK economy
+  - name: "\U0001F5E3 Communication channels for ASG community"
+    url: https://github.com/alan-turing-institute/asg-community#contact
+    about: Please contact the project team to be added to the The Turing Slack Workspace and Overleaf account where the white papers are currently being drafted.
