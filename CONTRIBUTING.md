@@ -46,4 +46,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International lic
 You are free to share and adapt the material shared in this repository
 as long as you provide attribution (give appropriate credit, provide a link to the license, 
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
-licensor endorses you or your use, and with no additional restrictions. (see [License](.LICENSE.md)).
+licensor endorses you or your use, and with no additional restrictions. (see [License](./LICENSE.md)).
