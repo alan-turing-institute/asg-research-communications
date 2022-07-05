@@ -15,6 +15,6 @@ assignees: ''
 - [ ] Get access to the Overleaf document where the white paper is currently being drafted
 - [ ] Make sure you have been given access to relevant Communications channels used for this project (the Turing Slack, coworking calls, ASG events)
 - [ ] Check the project's Zotero for reference: https://www.zotero.org/groups/4652021/turing_asg/library
-- [ ] Check out the [different kinds of roles and responsibilities](https://github.com/alan-turing-institute/asg-community/blob/main/documentation/asg-white-papers/contributor-roles.md) contributors of this project can take. We use the [CRediT Taxonomy](https://casrai.org/credit/) to define role beyond writing and reviewing the paper.
+- [ ] Check out the [different kinds of roles and responsibilities](https://github.com/alan-turing-institute/asg-community/blob/main/documentation/contributor-roles.md) contributors of this project can take. We use the [CRediT Taxonomy](https://casrai.org/credit/) to define role beyond writing and reviewing the paper.
 - [ ] Browse through currently open issues and Pull Requests to directly participate in the discussions as described in the [contributing guideline](https://github.com/alan-turing-institute/asg-community/blob/main/CONTRIBUTING.md)
 - [ ] Read the [onboarding document]((https://github.com/alan-turing-institute/asg-community/blob/main/onboarding.md)) to understand different routes to contributions, how your contributions will be acknowledged and resources that can help you get started as a contributor to the ASG white papers.
