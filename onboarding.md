@@ -14,7 +14,7 @@ You can also create [a GitHub issue](https://github.com/alan-turing-institute/as
 
 ## Long list of projects
 
-The ASG Community Manager has compiled a long list of a project curated by ASG project leads and Research Application Managers. 
+The ASG Community Manager has compiled a long list of projects curated by ASG project leads and Research Application Managers. 
 Please browse through the information provided [in this document](https://thealanturininstitute-my.sharepoint.com/:x:/g/personal/arao_turing_ac_uk/ETV-miIocs1Lv4Ss305GLG8B45egy4bx-NyP480dHBe3JQ?e=c6NbHU) (internal to the Turing).
 
 This document provides a summary of each project, researchers involved in those projects, relevant links/resources, specific cross-theme project/white paper where those projects can be highlighted and current contributors to the ASG white paper involved in writing about them.
