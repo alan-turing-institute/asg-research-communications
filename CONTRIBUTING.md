@@ -2,18 +2,19 @@
 
 First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and Collaboration Initiative! 🎉👍
 
-This repository is a place to share resources for the ASG researchers to learn about the white paper projects and other communication outputs.
-This is a collaborative and community effort and we welcome all ASG researchers as contributors. 
+The goal of the ASG Community and Collaboration initiative is to collaboratively write three whitepapers reporting on three cross-theme projects and supporting communications materials.
+This is a community effort and we welcome all ASG researchers as contributors to all the communications outputs. 
+
+This GitHub repository is a place to share resources for the ASG researchers interested in learning about and contributing to the ASG white papers and communication outputs.
+All contributions and suggestions to the white paper project as well as community activities are invited, especially drawing from the projects you lead or participate in.
+Whatever your interest and availability, there is a way to contribute to this GitHub repository.
+
+As an open source repository, we also encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
 
 All the Turing Institute's policies and Code of Conduct apply to the activities in this project carried out by the Turing researchers and employees.
 For both internal and external contributors, we recommend familiarising yourself with the following policies and guidelines from the Turing Institute that we apply to this project:
 - [Equality, Diversity and Inclusion framework](https://www.turing.ac.uk/about-us/equality-diversity-and-inclusion/EDI-framework)
 - [Events code of conduct](https://www.turing.ac.uk/events/policies-and-guidelines) 
-
-All contributions and suggestions to the white paper project as well as community activities are invited, especially drawing from the projects you lead or participate in.
-As an open source repository, we also encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
-
-Whatever your interest and availability, there is a way to contribute to this GitHub repository.
 
 🏃 I only have 5 minutes, but I am interested in this project
 ---
@@ -46,4 +47,3 @@ You are free to share and adapt the material shared in this repository
 as long as you provide attribution (give appropriate credit, provide a link to the license, 
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions. (see [License](.LICENSE.md)).
-
