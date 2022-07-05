@@ -1,6 +1,6 @@
 # How to contribute?
 
-First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and Collaboration Initiative! 🎉👍
+First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and Collaboration Initiative! 🎉
 
 The goal of the ASG Community and Collaboration initiative is to collaboratively write three whitepapers reporting on three cross-theme projects and supporting communications materials.
 This is a community effort and we welcome all ASG researchers as contributors to all the communications outputs. 
