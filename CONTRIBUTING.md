@@ -2,14 +2,14 @@
 
 First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and Collaboration Initiative! 🎉
 
-The goal of the ASG Community and Collaboration initiative is to collaboratively write three whitepapers reporting on three cross-theme projects and supporting communications materials.
+The goal of the ASG Community and Collaboration initiative is to collaboratively write a series of white papers reporting on three cross-theme projects (CTP) and supporting communication outputs.
 This is a community effort and we welcome all ASG researchers as contributors to all the communications outputs. 
 
 This GitHub repository is a place to share resources for the ASG researchers interested in learning about and contributing to the ASG white papers and communication outputs.
-All contributions and suggestions to the white paper project as well as community activities are invited, especially drawing from the projects you lead or participate in.
-Whatever your interest and availability, there is a way to contribute to this GitHub repository.
+All contributions and suggestions to the white paper project as well as community activities are highly encouraged, especially drawing from the projects you lead or participate in.
+Whatever your interest and availability, there is a way to contribute to this project.
 
-As an open source repository, we also encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
+We also encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
 
 All the Turing Institute's policies and Code of Conduct apply to the activities in this project carried out by the Turing researchers and employees.
 For both internal and external contributors, we recommend familiarising yourself with the following policies and guidelines from the Turing Institute that we apply to this project:
@@ -32,13 +32,13 @@ Reply under any issue by using the comment feature.
 🎉 I have read the onboarding document and familiarised myself with the project. I am ready to contribute! 🛠
 ---
 
-- Take on roles of writer, editor, and reviewer or other kinds of contributions to this project as described in the [ASG White Paper: Contributor Roles](documentation/contributor-roles.md).
+- Take on the roles of writer, editor, reviewer or other kinds of contributors to this project as described in the [ASG White Paper: Contributor Roles](documentation/contributor-roles.md).
 - Discuss your contribution plans with Achintya Rao, Community Manager (email: arao@turing.ac.uk) or connect with Malvika Sharan, TPS Senior Researcher overseeing the community and communications aspects of this project (email: msharan@turing.ac.uk). They will make sure you have access to different resources required to participate in this project (as described in the onboarding document).
 - Raise mistakes, errors or missing information on this repository by opening a [Pull Request](https://github.com/alan-turing-institute/asg-community/pulls)
   - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
   - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
-  - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+  - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. You can mark it as a “WIP” (Work in Progress) in the subject line and always add more commits later.
 
 License
 ---
