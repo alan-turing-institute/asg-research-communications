@@ -66,7 +66,7 @@ These resources will pull together the different strands of ASG research and be 
 
 - Please read the [contributing guideline](./CONTRIBUTING.md) to understand how you can get involved in the project
 - Please read the [onboarding](./onboarding.md) to follow a step-by-step guide to get onboard as a contributor to the white papers and other communication outputs
-- Please read the [contributor roles](documentation/asg-white-papers/contributor-roles.md) derived from the CRediT taxonomy to understand the scope of authorship beyond writing and reviewing
+- Please read the [contributor roles](documentation/contributor-roles.md) derived from the CRediT taxonomy to understand the scope of authorship beyond writing and reviewing
 
 # Who is involved
 
