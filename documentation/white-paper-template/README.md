@@ -5,7 +5,17 @@
 This is the content-only template used for authoring the ASG white papers, also [available on Overleaf](https://www.overleaf.com/read/qkcnfvhwhygv).
 Although compiled into a PDF via `LaTeX`, the individual chapters are themselves plain-text Markdown files.
 
-![A screenshot of the template in use on Overleaf](../../../images/ASG-White-Paper_template.png)
+![A screenshot of the template in use on Overleaf that shows a text editor in the left hand side and a rendered version of the paper on the right hand side](../../images/ASG-White-Paper_template.png)
+
+**Each white paper will include the following sections:**
+
+1. Executive Summary
+1. Introduction (broad overview of the problem area)
+1. Challenges (areas that the paper will address)
+1. ASG Contributions (ASG research projects)
+1. Recommendations (for the wider research community, policymakers, industry and government)
+1. Conclusion (meta-narrative)
+1. Acknowledgement
 
 Note that Overleaf is used only to author the content, not to produce the final outputs (which will be PDF/print and HTML).
 Once the content is frozen, following writing and reviewing, it will be used to generate the desired outputs.
@@ -25,7 +35,6 @@ It also defines the order of the chapters, as follows:
 \markdownInput{acknowledgements.md}
 ```
  
-
 
 ## Use
 
@@ -48,15 +57,11 @@ This makes for cleaner `diff`s of your source files:
 + New sentences are on new lines.
 ```
 
-### Adding images
+### Selected references from the Overleaf user manual
 
-…
-
-### Adding references
-
-…
-
-[Zotero]
+- Including images on Overleaf: https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf
+- Track changes in Overleaf: https://www.overleaf.com/learn/how-to/Track_Changes_in_Overleaf
+- Using bibliographies on Overleaf: https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf (also include references to the Zotero library for the ASG white paper: https://www.zotero.org/groups/4652021/turing_asg/library.)
 
 ## Contribution
 
