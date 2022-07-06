@@ -1,13 +1,12 @@
 # How to contribute?
 
-First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and Collaboration Initiative! 🎉
+First of all, thanks for taking the time to contribute to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and White Paper project repository! 🎉
 
-The goal of the ASG Community and Collaboration initiative is to collaboratively write a series of white papers reporting on three cross-theme projects (CTP) and supporting communication outputs.
+The goal of this project is to collaboratively write a series of white papers reporting on three cross-theme projects (CTP) and supporting communication outputs.
 This is a community effort and we welcome all ASG researchers as contributors to all the communications outputs. 
 
-This GitHub repository is a place to share resources for the ASG researchers interested in learning about and contributing to the ASG white papers and communication outputs.
-All contributions and suggestions to the white paper project as well as community activities are highly encouraged, especially drawing from the projects you lead or participate in.
-Whatever your interest and availability, there is a way to contribute to this project.
+This GitHub repository is a place to share resources for the ASG researchers interested in learning about and contributing to the ASG Community and White Paper project.
+All contributions and suggestions to the white papers as well as community participation are highly encouraged, especially to bring perspectives from the projects you lead or participate in.
 
 We also encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
 
@@ -15,6 +14,8 @@ All the Turing Institute's policies and Code of Conduct apply to the activities 
 For both internal and external contributors, we recommend familiarising yourself with the following policies and guidelines from the Turing Institute that we apply to this project:
 - [Equality, Diversity and Inclusion framework](https://www.turing.ac.uk/about-us/equality-diversity-and-inclusion/EDI-framework)
 - [Events code of conduct](https://www.turing.ac.uk/events/policies-and-guidelines) 
+
+Whatever your interest and availability, there is a way to contribute.
 
 🏃 I only have 5 minutes, but I am interested in this project
 ---
