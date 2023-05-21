@@ -1,7 +1,5 @@
 # AI for Science and Government (ASG) Community and White Paper project
 
-**This repository is no longer maintained.**
-
 Welcome to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and White Paper project repository. 🎉
 
 ASG was an integrated research programme at [The Alan Turing Institute](https://www.turing.ac.uk/) that aims to demonstrate – via a diverse range of activities organized and presented as an integrated whole – how AI and data science can be used to effectively address significant societal challenges and transform health, science, engineering, and government.
@@ -115,3 +113,7 @@ All the Turing Institute's policies and Code of Conduct apply to the activities 
 
 Content in this repository, copyright of The Alan Turing Institute, is licensed under the MIT licence (code) and Creative Commons Attribution 4.0 International licence (documentation).
 You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions.
+
+## Contact
+
+This project is currently being maintained by Malvika Sharan, TPS Senior Researcher - Open Research and Research Community Manangement. Please email [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) to contact her.
