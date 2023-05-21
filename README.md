@@ -71,7 +71,7 @@ Please browse them in the directory for [ASG Briefing Notes](./asg-briefing-note
 ### Impact Stories
 
 - [Better together: The people-centred approaches driving forward data ethics](https://www.turing.ac.uk/about-us/impact/better-together-people-centred-approaches-driving-forward-data-ethics)
-- [Open minds: How open-source tools are broadening the horizons for data science](Retrieved from https://www.turing.ac.uk/about-us/impact/open-minds-how-open-source-tools-are-broadening-horizons-data-science)
+- [Open minds: How open-source tools are broadening the horizons for data science](https://www.turing.ac.uk/about-us/impact/open-minds-how-open-source-tools-are-broadening-horizons-data-science)
 - [Twinning ways: how digital twins will change our world for the better](https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better)
 
 ## Leads and Contributors
