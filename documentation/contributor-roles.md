@@ -1,5 +1,7 @@
 # ASG White Paper: Contributor Roles
 
+**Note: This guideline was not ultimately applied in the production of briefing notes.**
+
 We have proposed to use an extension of the [CRediT – Contributor Roles Taxonomy](https://casrai.org/credit/), which is a high-level taxonomy, including many roles ASG community members can take throughout the course of their participation in the co-creation of the ASG white papers as well as related communication outputs.
 These roles will help us give fair credit and recognition for each contributor’s specific contribution to the communication output.
 
