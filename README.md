@@ -59,10 +59,20 @@ One of the primary outcomes are a series of White Papers, which will offer an op
 - Core Theme - Environment and Sustainability: **Tackling climate change with data science and AI**. Cite as: *Conner, A., Hosking, S., Lloyd, J., Rao, A., Shaddick, G., & Sharan, M. (2023). Tackling climate change with data science and AI. Zenodo. [doi: 10.5281/zenodo.7712969](https://zenodo.org/record/7712969)*
 - Core Theme - Ecosystem of Digital Twine: **Towards ecosystems of connected digital twins to address global challenges**. Cite as: *Bennett, H., Birkin, M., Ding, J., Duncan, A., & Engin, Z. (2023). Towards ecosystems of connected digital twins to address global challenges. Zenodo. [doi: 10.5281/zenodo.7840266](https://zenodo.org/record/7840266)*
 
+#### Supporting Materials
+
+- A browsable report on AI in Environment and Sustainability with examples from ASG: [AI in Environment and Sustainability Exemplars](https://alan-turing-institute.github.io/asg-research-communications/)
+
 ### Briefing Notes
 
 A series of Briefing Notes were published that are shared in this repository.
 Please browse them in the directory for [ASG Briefing Notes](./asg-briefing-notes)
+
+### Impact Stories
+
+- [Better together: The people-centred approaches driving forward data ethics](https://www.turing.ac.uk/about-us/impact/better-together-people-centred-approaches-driving-forward-data-ethics)
+- [Open minds: How open-source tools are broadening the horizons for data science](Retrieved from https://www.turing.ac.uk/about-us/impact/open-minds-how-open-source-tools-are-broadening-horizons-data-science)
+- [Twinning ways: how digital twins will change our world for the better](https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better)
 
 ## Leads and Contributors
 
