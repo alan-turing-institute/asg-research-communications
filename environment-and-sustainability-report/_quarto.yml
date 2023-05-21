@@ -1,0 +1,53 @@
+project:
+  title: "AI in Environment and Sustainability Exemplars"
+  type: book
+  output-dir: ../docs
+
+book:
+  author: "Malvika Sharan"
+  page-navigation: true
+  search: true
+  repo-url: https://github.com/alan-turing-institute/asg-research-communications/tree/main/environment-and-sustainability-report
+  date: "30/10/2022"
+  downloads: pdf
+  chapters:
+    - index.md
+    - theme-introduction.md
+    - category-introduction.md
+    - part: monitoring.md
+      chapters:
+      - monitoring-spotlight.md
+      - monitoring-examples.md
+    - part: forecasting.md
+      chapters:
+      - forecasting-spotlight.md
+      - forecasting-examples.md
+    - part: simulating.md
+      chapters:
+      - simulating-spotlight.md
+      - simulating-examples.md    
+    - part: adapting.md
+      chapters:
+      - adapting-spotlight.md
+      - adapting-examples.md
+    - part: recommendations.md
+      chapters: 
+      - interdiscipline-inclusive.md
+      - open-reproducible.md
+      - integration-deployment.md
+      - common-understanding.md
+    - contributors.md
+    - references.md
+
+toc: true
+number-sections: false
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image:
+
+editor:
+  render-on-save: true
