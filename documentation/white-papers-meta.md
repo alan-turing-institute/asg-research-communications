@@ -1,5 +1,7 @@
 # ASG White Papers
 
+**Note: this set up was not ultimately effective for the project**
+
 ## Resources
 
 | White Paper                             | Document                                                              | Labels                                                                                                                                                      | Slack Channel                                                                            |
