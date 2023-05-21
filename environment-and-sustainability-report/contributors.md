@@ -19,8 +19,8 @@ Please cite that as *Conner, A., Hosking, S., Lloyd, J., Rao, A., Shaddick, G., 
 Thanks to James and Alden for editorial work.
 
 Thanks to also those who have spoken in regards with this report or other related communications outputs:
+
 - Gavin Shaddick
-- 
 - Kirstie Whitaker
 - James Lloyd
 - Hayley Bennett
