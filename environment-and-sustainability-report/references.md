@@ -85,6 +85,7 @@ Impact of climate change on agriculture. [https://www.turing.ac.uk/research/rese
 - Data science for climate resilience in East Africa. [https://www.turing.ac.uk/research/research-projects/data-science-climate-resilience-east-africa](https://www.turing.ac.uk/research/research-projects/data-science-climate-resilience-east-africa)
 - TIST Program | 23+ million living trees planted by 130,000+ farmers in India, Kenya, Tanzania & Uganda | Award-winning, time-tested and participant-led afforestation model. (2022, July 01). [http://www.tist.org/welcome](http://www.tist.org/welcome)
 - Northern Rangelands Trust. [https://www.nrt-kenya.org](https://www.nrt-kenya.org)
+- Synthetic Population Catalyst. [https://alan-turing-institute.github.io/uatk-spc](https://alan-turing-institute.github.io/uatk-spc)
 - Buxton, J., Powell, T., Ambler, J., Boulton, C., Nicholson, A., Arthur, R., ...Lenton, T. M. (2021). Community-driven tree planting greens the neighbouring landscape. Sci. Rep., 11(18239), 1–9. doi: 10.1038/s41598-021-96973-6. [https://www.nature.com/articles/s41598-021-96973-6](https://www.nature.com/articles/s41598-021-96973-6)
 
 ## Recommendations
