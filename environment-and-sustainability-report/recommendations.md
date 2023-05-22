@@ -9,4 +9,4 @@ Categorised under these four overarching objectives, in this paper, we describe 
 * (Facilitate) Interdisciplinary and Inclusive Collaboration
 * (Create) Open, Reproducible and Ethical AI Technology
 * (Pioneer) Cross-Disciplinary Data Integration and Real-World Deployment
-* (Build a) Common Understanding of AI Applications
+* Informing community of ethical use of AI
