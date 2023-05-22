@@ -1,4 +1,4 @@
-# Open, Reproducible and Ethical AI Technology
+# Open and Reproducible Technology
 
 Reproducibility is necessary to ensure the highest quality of research outcomes, ensuring that the same analysis when applied to the same data produces the same outcome. Open Source approaches support reproducibility by enabling access not only to the software or tools but also to their building blocks such as methods, data, code, analysis workflows and documentation. Open and reproducible research practices are not often integrated into projects from the beginning, making it extremely challenging to ensure that all results will be easily accessed, openly examined, reused and built upon by others. Furthermore, the importance of ethics in AI, though widely acknowledged, is not practically taught. Open, reproducible and ethical data practices require a common practical framework for development, computational reproducibility, project management, co-creation and transparent communication processes.
 
