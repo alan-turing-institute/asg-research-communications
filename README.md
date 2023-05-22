@@ -1,12 +1,11 @@
-# AI for Science and Government (ASG) Community and White Paper project
+# AI for Science and Government (ASG) Communications Outputs project
 
-Welcome to the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) Community and White Paper project repository. 🎉
+Welcome to the GitHub repository linking communications outputs developed to communicate about the research projects, outcomes and real-world impact from the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) research programmes. 🎉
 
 ASG was an integrated research programme at [The Alan Turing Institute](https://www.turing.ac.uk/) that aims to demonstrate – via a diverse range of activities organized and presented as an integrated whole – how AI and data science can be used to effectively address significant societal challenges and transform health, science, engineering, and government.
 The project
 
-
-The ASG Community and White Paper project engaged researchers at the Turing to collaborate, exchange knowledge and showcase their work through a series of white papers and supporting communication outputs about the ASG projects.
+The communications outputs listed in this repository were develped with the contributions from the researchers, showcasing their work through a series of white papers and supporting communication outputs about the ASG projects.
 
 ## Vision
 
@@ -41,9 +40,9 @@ In addition to these themes, ASG researchers also worked across three large cros
 
 ## Outputs from this project
 
-In this project, we are producing a series of communication outputs, including community reports and briefing notes.
-These address key issues for policy-makers and other stakeholders on the future of AI in science and government.
-The documents are being co-created by all members of the ASG community and shared openly for further development and reuse.
+In this project, we are providing links to a series of communication outputs.
+These address key issues for researchers, policy-makers and other stakeholders on the future of AI in science and government.
+All documents are being co-created and shared openly for further development and reuse.
 
 One of the primary outcomes are a series of White Papers, which will offer an opportunity for ASG as a programme to reflect on:
 
