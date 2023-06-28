@@ -79,13 +79,15 @@ Please browse them in the directory for [ASG Briefing Notes](./asg-briefing-note
 - The Programme Management team: 
   - **Hannah Sweeney**, Programme Manager
   - **Zaynab Ismail**, previous Research Project Manager
-- The [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) - Research Applications Management (RAM) Team
-  - **Aida Mehonic**, Senior Researcher - Research Applications and RAM team lead
-  - **Jennifer Ding**, RAM
-  - **Alden Connect**, RAM 
-- The [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) - Research Community Management (RCM) Team
-  - **Malvika Sharan**, Senior Researcher - Open Research and RCM Team lead
-  - **Achintya Rao**, previous ASG Community Manager
+- The [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)
+  - Research Applications Management (RAM) Team
+    - **Aida Mehonic**, Senior Researcher - Research Applications and RAM team lead
+    - **Jennifer Ding**, RAM
+    - **Alden Connect**, RAM 
+  - Research Community Management (RCM) Team
+    - **Malvika Sharan**, Senior Researcher - Open Research and RCM Team lead
+    - **Achintya Rao**, previous ASG Community Manager
+  - **Zeynep Engin**, AI for Science and Government Theme Lead for TPS
 - The Turing Communications team members:
   - **James Lloyd**, Scientific Writer
   - **Hayley Bennett**,contracted freelancer
