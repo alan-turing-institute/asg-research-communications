@@ -1,5 +1,7 @@
 # AI for Science and Government (ASG) Communications Outputs project
 
+*This repository is not actively being maintained. Please browse the repo for links to resources, most of which have also been added to the [Turing's impact page for ASG](https://www.turing.ac.uk/about-us/impact/asg)*
+
 Welcome to the GitHub repository linking communications outputs developed to communicate about the research projects, outcomes and real-world impact from the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) research programmes. 🎉
 
 ASG was an integrated research programme at [The Alan Turing Institute](https://www.turing.ac.uk/) that aims to demonstrate – via a diverse range of activities organized and presented as an integrated whole – how AI and data science can be used to effectively address significant societal challenges and transform health, science, engineering, and government.
@@ -40,11 +42,11 @@ In addition to these themes, ASG researchers also worked across three large cros
 
 ## Outputs from this project
 
-In this project, we are providing links to a series of communication outputs.
+In this repo, we are providing links to a series of communication outputs.
 These address key issues for researchers, policy-makers and other stakeholders on the future of AI in science and government.
 All documents are being co-created and shared openly for further development and reuse.
 
-One of the primary outcomes are a series of White Papers, which will offer an opportunity for ASG as a programme to reflect on:
+One of the primary outcomes is a series of White Papers, which offers an opportunity for ASG as a programme to reflect on:
 
 - learnings using evidence from ASG research,
 - key challenges that have emerged,
@@ -55,7 +57,7 @@ One of the primary outcomes are a series of White Papers, which will offer an op
 
 - Core Theme - Environment and Sustainability: **Tackling climate change with data science and AI**. Cite as: *Conner, A., Hosking, S., Lloyd, J., Rao, A., Shaddick, G., & Sharan, M. (2023). Tackling climate change with data science and AI. Zenodo. [doi: 10.5281/zenodo.7712969](https://zenodo.org/record/7712969)*
 - Core Theme - Ecosystem of Digital Twine: **Towards ecosystems of connected digital twins to address global challenges**. Cite as: *Bennett, H., Birkin, M., Ding, J., Duncan, A., & Engin, Z. (2023). Towards ecosystems of connected digital twins to address global challenges. Zenodo. [doi: 10.5281/zenodo.7840266](https://zenodo.org/record/7840266)*
-- Core Theme - Shocks and Resilience: **Building resilience in government using data science**, Cite as: *Bennett, H., Dorobantu, C., MacArthur, B., & Margetts, H. (2023). Building resilience in government using data science. Zenodo. doi: 10.5281/zenodo.7973613*
+- Core Theme - Shocks and Resilience: **Building resilience in government using data science**, Cite as: *Bennett, H., Dorobantu, C., MacArthur, B., & Margetts, H. (2023). Building resilience in government using data science. Zenodo. doi: [10.5281/zenodo.7973613](https://zenodo.org/record/7973613)*
 
 #### Supporting Materials
 
@@ -66,11 +68,23 @@ One of the primary outcomes are a series of White Papers, which will offer an op
 A series of Briefing Notes were published that are shared in this repository.
 Please browse them in the directory for [ASG Briefing Notes](./asg-briefing-notes)
 
+### The Coffee Pod: Podcast
+
+[The Coffee Pod](https://www.turing.ac.uk/news/turing-podcast): a short series about the Turing's AI for Science and Government fund, that gives you the chance to hear about the people behind the project. Conceived by Achintya Rao, hosted by Bea Costa Gomez and produced by Luca Lane.
+- Episode 1: Ruoyun Hui
+- Episode 2: Domenic DiFrancesco, who worked on Digital Twins for Fleets and Supply Chain Management in the Ecosystems of Digital Twins cross-theme.
+- Episode 3: Tom Andersson, who worked on the Turing/British Antarctic Survey on Environmental models: Bridging the spatial scales, from surface sensors to satellite sensors in the Environment and Sustainability cross-theme project
+- Episode 4: Fernando Benitez, who worked on Spatial Modelling in the Shocks and the Resilience cross-theme project.
+- Episode 5: Malvika Sharan, who worked on *The Turing Way* in the Tools, Practices and Systems theme.
+- Episode 6: Hussein Rappel, who worked on Digital Twins in Infrastructure and Construction project in the Complex Systems Engineering theme.
+
 ### Impact Stories
 
 - [Better together: The people-centred approaches driving forward data ethics](https://www.turing.ac.uk/about-us/impact/better-together-people-centred-approaches-driving-forward-data-ethics)
 - [Open minds: How open-source tools are broadening the horizons for data science](https://www.turing.ac.uk/about-us/impact/open-minds-how-open-source-tools-are-broadening-horizons-data-science)
 - [Twinning ways: how digital twins will change our world for the better](https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better)
+
+*Previous impact stories are listed online: https://www.turing.ac.uk/about-us/impact/asg.*
 
 ## Leads and Contributors
 
@@ -102,7 +116,7 @@ Please browse them in the directory for [ASG Briefing Notes](./asg-briefing-note
 
 - [**The Tools, Practices and Systems (TPS)**](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at the Turing represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts. 
   - The ASG Community Manager was funded by the ASG and sits in the Reseach Community Management Team hosted under the TPS programme.
-  - The Research Application Management group led by Aida Mehonic was piloted under the ASG programme. Alden Conner and Jennifer Ding were involved in the productions of one whitepaper each, while supporting multiple ASG projects as Research Application Managers.
+  - The Research Application Management group led by Aida Mehonic was piloted under the ASG programme. Alden Conner and Jennifer Ding were involved in the production of one whitepaper each while supporting multiple ASG projects as Research Application Managers.
 
 ### Policies
 
