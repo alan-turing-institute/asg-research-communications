@@ -2,9 +2,9 @@
 
 *This repository is not actively being maintained. Please browse the repo for links to resources, most of which have also been added to the [Turing's impact page for ASG](https://www.turing.ac.uk/about-us/impact/asg)*
 
-Welcome to the GitHub repository linking communications outputs developed to communicate about the research projects, outcomes and real-world impact from the [AI for Science and Government (ASG)](https://www.turing.ac.uk/research/asg) research programmes. 🎉
+Welcome to the GitHub repository linking communications outputs developed to communicate about the research projects, outcomes and real-world impact from the [AI for Science and Government](https://www.turing.ac.uk/research/asg) research programmes. 🎉
 
-ASG was an integrated research programme at [The Alan Turing Institute](https://www.turing.ac.uk/) that aims to demonstrate – via a diverse range of activities organized and presented as an integrated whole – how AI and data science can be used to effectively address significant societal challenges and transform health, science, engineering, and government.
+AI for Science and Government (ASG) is a £38.8 million programme established at [The Alan Turing Institute](https://www.turing.ac.uk/) through UKRI’s Strategic Priorities Fund in 2018. With a diverse range of activities organized and established as an integrated whole, ASG demonstrated how AI and data science can be used to effectively address significant societal challenges and transform health, science, engineering, and government.
 The project
 
 The communications outputs listed in this repository were develped with the contributions from the researchers, showcasing their work through a series of white papers and supporting communication outputs about the ASG projects.
